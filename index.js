@@ -2,27 +2,6 @@
 
 
 
-let send = document.getElementById("send");
-
-
-send.addEventListener("click",() =>{
-    let ism = document.getElementById("name").value;
-   
-   let result =  arr.find(item => item.name === ism);
-
-
-    if(result){
-        div.style.display = "block";
-        console.log("ishladi");
-    }
-    else{
-        div.style.display = "none"
-        console.log("Error");
-    }
-
-
-})
-
 
 
 
@@ -55,8 +34,7 @@ users.forEach((item) =>{
 
     div.classList.add("box")
 
-
-
-
 })
+
+
 

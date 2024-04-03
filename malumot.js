@@ -231,9 +231,3 @@ let arr = [
     }
   ]
 
-  let product = [
-      {
-        id:1,
-        name:"Samsung S24",
-      }
-  ]
