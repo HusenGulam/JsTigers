@@ -52,7 +52,3 @@ blue.appendChild(div6)
 div6.classList.add("box")
 console.log(div6);
 
-
-let result = "ishladi";
-
-console.log(result);
