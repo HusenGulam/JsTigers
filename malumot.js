@@ -292,4 +292,34 @@ let arr = [
         img: "img/iphone13.jpg",
         price:"750$"
       },
+      {
+        id:11,
+        name:"Infinix Hot 40",
+        img: "img/hot40.jpg",
+        price:"200$"
+      },
+      {
+        id:12,
+        name:"Xiaomi 13 Ultra",
+        img: "img/xiaomi13.jpg",
+        price:"750$"
+      },
+      {
+        id:13,
+        name:"Samsung Book4",
+        img: "img/sbook4.jpg",
+        price:"750$"
+      },
+      {
+        id:14,
+        name:"Samsung Book4",
+        img: "img/sbook4.jpg",
+        price:"1650$"
+      },
+      {
+        id:15,
+        name:"Infinix Note 12 Pro",
+        img: "img/infinix12.jpg",
+        price:"499$"
+      },
   ]
