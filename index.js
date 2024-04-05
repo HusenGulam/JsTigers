@@ -35,6 +35,3 @@ users.forEach((item) =>{
     div.classList.add("box")
 
 })
-
-
-
