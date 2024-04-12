@@ -15,7 +15,7 @@ let users = arr.filter( item => item.id <= 6);
 users.forEach((item) =>{
     let h2 = document.createElement("h2");
     h2.innerHTML = item.name;
-   
+    h2.classList.add("title")
 
     let div = document.createElement("div");
 
@@ -32,6 +32,29 @@ users.forEach((item) =>{
     div.append(email);
     div.append(number);
 
-    div.classList.add("box")
+    div.classList.add("box");
+    
+    
+ let searchBtn = document.getElementById("send");
+
+ searchBtn.addEventListener("click",getName)
+
+ function getName(){
+    // let box = document.querySelectorAll(".box");
+    let title = document.querySelectorAll(".title");
+    let serachInp = document.getElementById("name");
+
+    let result = arr.find(item => item.name == serachInp.value)
+        if(result.name == serachInp.value){
+            
+            }
+            // else{
+            //     box.style.display = "none"
+            // }
+ }
+
 
 })
+
+
+
