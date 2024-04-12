@@ -234,68 +234,68 @@ let arr = [
   let product = [
       {
         id:1,
-        name:"Samsung S24 Ultra",
-        img: "img/s24.jpg",
+        name: "Samsung S24 Ultra",
+        img: "../img/s24.jpg",
         price:"1200$"
       },
       {
         id:2,
         name:"iPhone 15 Pro",
-        img: "img/iphone15.jpg",
+        img: "../img/iphone15.jpg",
         price:"1250$"
       },
       {
         id:3,
         name:"Xiaomi 14",
-        img: "img/xiaomi14.jpg",
+        img: "../img/xiaomi14.jpg",
         price:"1000$"
       },  
       {
         id:4,
         name:"Ipad 11",
-        img: "img/ipad11.jpg",
+        img: "../img/ipad11.jpg",
         price:"1100$"
       },
       {
         id:5,
         name:"Iwatch 9",
-        img: "img/iwatch9.jpg",
+        img: "../img/iwatch9.jpg",
         price:"680$"
       },
       {
         id:6,
         name:"Samsung watch 6",
-        img: "img/samsung6.jpg",
+        img: "../img/samsung6.jpg",
         price:"550$"
       },
       {
         id:7,
         name:"MacBook M2 pro",
-        img: "img/macbook.jpg",
+        img: "../img/macbook.jpg",
         price:"1800$"
       },
       {
         id:8,
         name:"iPhone 14 Pro",
-        img: "img/iphone14.jpg",
+        img: "../img/iphone14.jpg",
         price:"850$"
       },
       {
         id:9,
         name:"Samsung S23 Ultra",
-        img: "img/s23.jpg",
+        img: "../img/s23.jpg",
         price:"990$"
       },
       {
         id:10,
         name:"Iphone 13 Pro",
-        img: "img/iphone13.jpg",
+        img: "../img/iphone13.jpg",
         price:"750$"
       },
       {
         id:11,
         name:"Infinix Hot 40",
-        img: "img/hot40.jpg",
+        img: "../img/hot40.jpg",
         price:"200$"
       },
       {
@@ -321,6 +321,6 @@ let arr = [
         name:"Infinix Note 12 Pro",
         img: "img/infinix12.jpg",
         price:"499$"
-      },
+      }
   ]
 
